@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-12T01:07:18 IST" name="Default suite" finished-at="2024-08-12T01:07:31 IST" duration-ms="12417">
+    <groups>
+    </groups>
+    <test started-at="2024-08-12T01:07:18 IST" name="Default test" finished-at="2024-08-12T01:07:31 IST" duration-ms="12417">
+      <class name="testscript.ManageProductTest">
+        <test-method is-config="true" signature="intialiseBrowser()[pri:0, instance:testscript.ManageProductTest@4218d6a3]" started-at="2024-08-12T01:07:18 IST" name="intialiseBrowser" finished-at="2024-08-12T01:07:26 IST" duration-ms="7949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialiseBrowser -->
+        <test-method signature="verifyUserIsAbleToDeleteProduct()[pri:0, instance:testscript.ManageProductTest@4218d6a3]" started-at="2024-08-12T01:07:27 IST" name="verifyUserIsAbleToDeleteProduct" finished-at="2024-08-12T01:07:30 IST" duration-ms="3881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserIsAbleToDeleteProduct -->
+        <test-method is-config="true" signature="driverQuitAndClose()[pri:0, instance:testscript.ManageProductTest@4218d6a3]" started-at="2024-08-12T01:07:30 IST" name="driverQuitAndClose" finished-at="2024-08-12T01:07:31 IST" duration-ms="446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverQuitAndClose -->
+      </class> <!-- testscript.ManageProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
